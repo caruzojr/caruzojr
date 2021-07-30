@@ -1,20 +1,12 @@
-### Hi there 👋
+👋
 
-<!--
-**caruzojr/caruzojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## BIO  
 
-Here are some ideas to get you started:
+**ARNALDO CARUZO JUNIOR**  
+Brasileiro - Paulistano  
+São Paulo/SP  
+37 anos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Profissional na área digital, trabalhando a mais de 13 anos com foco no desenvolvimento front-end.**
 
-<svg viewBox="0 0 128 128">
-<g fill="#3FB6D3"><path d="M12.3 64.2L76.3 0h39.4L32.1 83.6zM76.3 128h39.4L81.6 93.9l34.1-34.8H76.3L42.2 93.5z"></path></g><path fill="#27AACD" d="M81.6 93.9l-20-20-19.4 19.6 19.4 19.6z"></path><path fill="#19599A" d="M115.7 128L81.6 93.9l-20 19.2L76.3 128z"></path><linearGradient id="flutter-original-a" gradientUnits="userSpaceOnUse" x1="59.365" y1="116.36" x2="86.825" y2="99.399"><stop offset="0" stop-color="#1b4e94"></stop><stop offset=".63" stop-color="#1a5497"></stop><stop offset="1" stop-color="#195a9b"></stop></linearGradient><path fill="url(#flutter-original-a)" d="M61.6 113.1l30.8-8.4-10.8-10.8z"></path>
-</svg>
+Com um objetivo sempre definido e claro, em todas as empresas que trabalhei, minha carreira sempre foi voltada ao desenvolvimento web. Ao longo de todos esse tempo, passei por alguma empresas de seguimentos bem distinto entre elas, onde tive a oportunidade de adquirir experiencias completa de todo um processo no desenvolvimento de um projeto digital. Desde de um planejamento de uma idéia, concepção de protótipos, desenvolvimento de uma estrutura Back-end e Front-end, planejamento de uma campanha de lançamento, e por fim, finalizando esse ciclo que envolve um projeto digital, construção de relatórios com métricas de retorno ou engajamento. Recentemente tiver a oportunidade de aplicar metodologia ágil no gerenciamento de uma equipe a frente no desenvolvimento de aplicativos para uma empresa voltada a área da saúde.

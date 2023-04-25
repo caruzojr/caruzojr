@@ -5,7 +5,7 @@
 **ARNALDO CARUZO JUNIOR**  
 Brasileiro - Paulistano  
 São Paulo/SP  
-37 anos
+39 anos
 
 **Profissional na área digital, trabalhando a mais de 13 anos com foco no desenvolvimento front-end.**
 
